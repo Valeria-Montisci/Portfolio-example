@@ -87,7 +87,10 @@ p {
     text-align: center;
   }
   .app-wrap {
-    border: solid var(--primary-color) 1px;
+    border-bottom: solid var(--primary-color) 1px;
+  }
+  .image-app {
+    display: none;
   }
   .email-link {
     font-size: 20px;
